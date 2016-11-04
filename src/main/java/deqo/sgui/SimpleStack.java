@@ -1,3 +1,5 @@
+package deqo.sgui;
+
 import java.util.EmptyStackException;
 
 /**

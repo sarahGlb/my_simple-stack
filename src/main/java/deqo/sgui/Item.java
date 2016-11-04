@@ -1,3 +1,5 @@
+package deqo.sgui;
+
 /**
  * Created by 21305884 on 04/11/2016.
  */
